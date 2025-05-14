@@ -1,0 +1,8 @@
+{
+  "description": "Payroll for LUG 2025",
+  "curlib": "&CURLIB",
+  "includePath": [
+    "QPROTOSRC"
+  ],
+  "buildCommand": "makei build"
+}
