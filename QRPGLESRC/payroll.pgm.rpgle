@@ -35,7 +35,7 @@ Dcl-F PRJMST     Usage(*Update:*Delete:*Output) Keyed;
 Dcl-F RSNMST     Usage(*Update:*Delete:*Output) Keyed;
 
 Dcl-S EMESS           Char(50);
-// Glenn is smart guy
+
 /include ERRORTABLE
 
  //
